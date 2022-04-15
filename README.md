@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shawn Mels
 - 👀 I’m interested in JavaScript and web3
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and computer science student
 - 💞️ I’m looking to collaborate on anything JavaScript related
 - 📫 Reach me on my twitter @MelzShawn
 
